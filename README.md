@@ -19,7 +19,7 @@ The block diagram below shows the architecture of the proposed model.
 
 
 **DATASETS** <br />
-to do
+Link to dataset : https://osf.io/b6gy5/wiki/home/
 
 
 **TRAINING** <br />
